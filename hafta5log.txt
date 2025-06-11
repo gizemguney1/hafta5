@@ -1,0 +1,4 @@
+- Pythonda class kullanılarak hesap makinesi uygulaması incelendi.
+- Toplama, çıkarma, çarpma ve bölme işlemleri ayrı fonksiyonlarla incelendi.
+- yazdir() fonksiyonu ile tüm işlemler ekrana bastırıldı.
+- Kod başarıyla çalıştırıldı ve sonuçlar kontrol edildi.
